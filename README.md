@@ -14,9 +14,9 @@ Installation
 
 Usage
 
-    1. Compile the application: javac src/*.java
+    1. Compile the application: javac *.java
 
-    2. Run the application: java src/App
+    2. Run the application: java App
 
 Features
 
