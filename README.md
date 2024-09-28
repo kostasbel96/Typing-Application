@@ -17,13 +17,3 @@ Usage
     1. Compile the application: javac *.java
 
     2. Run the application: java App
-
-Features
-
-    Test your typing speed with predefined sentences.
-    Track your typing accuracy and speed.
-
-Future Improvements
-
-    Add customizable text inputs.
-    Implement user progress tracking.
